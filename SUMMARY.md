@@ -8,7 +8,7 @@
   * Organizing Features and config
   * Access handling
   * Performance
-  * Theming and frontend development
+  * Theming and frontend dev
 * [Part 2: Building common features](part-2-building-common-features.md)
   * Workflow
   * Migration
