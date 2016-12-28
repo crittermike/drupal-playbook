@@ -12,6 +12,10 @@ If you've ever wondered about the best practice for doing this or that in Drupal
 
 It should be readable without without being a Drupal expert, but at least a basic working knowledge will probably be needed.
 
+**What version\(s\) of Drupal does this apply to?**
+
+The book is written for Drupal 8 specifically, but many of the concepts should apply to Drupal 7 fairly well.
+
 ## Contributing
 
 If you want to contribute to this, you have a few options.
@@ -21,6 +25,4 @@ If you want to contribute to this, you have a few options.
 3. Come talk to me! I'm [mikecrittenden@gmail.com](mailto:mikecrittenden@gmail.com) or [@mcrittenden](http://twitter.com/mcrittenden).
 
 .
-
-
 
