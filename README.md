@@ -1,6 +1,6 @@
 # Drupal Playbook
 
-**Written by **[**Mike Crittenden**](http://mikecr.it/)**.**
+**A guidebook of Drupal best practices, written by **[**Mike Crittenden**](http://mikecr.it/)**.**
 
 ## FAQ
 
