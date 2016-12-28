@@ -5,7 +5,7 @@
   * Creating the project
   * Development setup
   * Naming conventions
-  * Organizing Features and configuration
+  * Organizing Features and config
   * Access handling
   * Performance
   * Theming and frontend development
