@@ -6,8 +6,8 @@
   * Development setup
   * Naming conventions
   * Organizing Features and configuration
-  * Access handling and permissions
-  * Performance optimization and testing
+  * Access handling
+  * Performance
   * Theming and frontend development
 * [Part 2: Building common features](part-2-building-common-features.md)
   * Workflow
