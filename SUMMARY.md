@@ -9,17 +9,17 @@
     * Features and config
 * [Part 2: Common Features](part-2-building-common-features.md)
     * [Workflow](workflow.md)
-    * Migration
+    * [Migration](migration.md)
     * Access handling
+    * [Search](search.md)
+    * [Multilingual](multilingual.md)
+    * [Editorial workflow](editorial-workflow.md)
+    * [Admin experience](admin-experience.md)
+    * [Layout and page building](layout-and-page-building.md)
+    * [Media handling](media-handling.md)
+    * [Carousels](carousels.md)
+    * [Performance](performance.md)
     * Theming and frontend dev
-    * Search
-    * Multilingual
-    * Editorial workflow
-    * Admin experience
-    * Layout and page building
-    * Media handling
-    * Carousels
-    * Performance
 * Part 3: Development workflow
     * Development process
     * Code review
